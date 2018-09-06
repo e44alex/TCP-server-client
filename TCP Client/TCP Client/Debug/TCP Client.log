@@ -1,0 +1,3 @@
+﻿  TCP Client.cpp
+d:\source\repos\tcp client\tcp client\tcp client.cpp(62): warning C4101: c1: неиспользованная локальная переменная
+  TCP Client.vcxproj -> D:\source\repos\TCP Client\Debug\TCP Client.exe
